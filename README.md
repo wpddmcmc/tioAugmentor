@@ -42,3 +42,6 @@ python ./augmentor.py
 
 ### Augmentation 
 please check [TorchIO handbook](https://torchio.readthedocs.io/transforms/augmentation.html)
+
+### Output
+The generated data will be stored in `./newdata/imgs/` and `./newtata/masks/`
